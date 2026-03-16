@@ -9,7 +9,7 @@ redirect_from:
 
 I am a Postdoctoral researcher in the Institute of Theoretical Sciences at Westlake University. My research mentor is [Zhongwei Shen (申仲伟)](https://scholar.google.com/citations?user=aS4pZfoAAAAJ&hl=en). 
 
-From August to December 2025, I was a Visiting Research Assistant in the Department of Biostatistics at the University of California, Berkeley. Prior to that, I received my Ph.D. in Mathematics from Tsinghua University in June 2025 and my B.S. in Mathematics from Tsinghua University in June 2020. My PhD advisor is [Wenjia Jing (荆文甲)](https://sites.google.com/view/math-wenjiajing/welcome).
+From August to December 2025, I was a Visiting Research Assistant in the Department of Biostatistics at the University of California, Berkeley. Prior to that, I received my Ph.D. and B.S. in Mathematics from Tsinghua University. My PhD advisor is [Wenjia Jing (荆文甲)](https://sites.google.com/view/math-wenjiajing/welcome).
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
